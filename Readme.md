@@ -1,16 +1,16 @@
-# Contratos Estratégicos ESG & Compliance Jurídico
+# Contratos_Estrategicos_ESG_Compliance_Juridico
 
 **Data de criação:** 26/03/2026
 
-Esta SKILL foi desenvolvida para oferecer uma atuação jurídica contratual de alto nível, voltada à proteção integral da empresa contratante, alinhada às melhores práticas de compliance, ESG e governança corporativa.
+Esta SKILL foi desenvolvida para oferecer uma atuação jurídica contratual de alto nível, voltada à elaboração e revisão de contratos modernos, estratégicos e preventivos, alinhados às melhores práticas de compliance, ESG e governança corporativa.
 
 ## Diferenciais
 
-- Linguagem clara e acessível
 - Autoridade jurídica consolidada
+- Linguagem clara e acessível
 - Visão estratégica e preventiva
-- Atualização constante com o Direito Brasileiro moderno
-- Foco em segurança jurídica e transparência
+- Atualização constante com o Direito Brasileiro
+- Foco em segurança jurídica e proteção empresarial
 
 ## Público-Alvo
 
@@ -30,5 +30,5 @@ Site: http://www.oliveiracarlos.adv.br
 
 ---
 
-Contratos Estratégicos ESG & Compliance Jurídico  
+Contratos_Estrategicos_ESG_Compliance_Juridico  
 @oliveiracarlosadv
